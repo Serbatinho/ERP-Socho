@@ -1,2 +1,2 @@
 # ERP-Socho
-Projeto ERP funcional desenvolvidol por Serbato e 
+Projeto ERP funcional desenvolvidol por Serbato e Rafael Castro
